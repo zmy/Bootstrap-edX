@@ -5,11 +5,7 @@ VisualStudioVersion = 12.0.31101.0
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "HelloBootstrap", "HelloBootstrap\HelloBootstrap.pyproj", "{E94C82B1-55FA-4737-880C-E0137D6EAC83}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BootstrapDemos", "BootstrapDemos\BootstrapDemos.csproj", "{7B143CEE-D7FA-4C2E-A860-726C8A3B08D4}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ModuleTwo", "ModuleTwo\ModuleTwo.csproj", "{4AE58766-527B-46C9-90A1-1B1281987455}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ModuleThree", "ModuleThree\ModuleThree.csproj", "{405282D5-AC93-4C1A-9355-586F7E0A806A}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ModuleOne", "ModuleOne\ModuleOne.csproj", "{7B143CEE-D7FA-4C2E-A860-726C8A3B08D4}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -25,14 +21,6 @@ Global
 		{7B143CEE-D7FA-4C2E-A860-726C8A3B08D4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7B143CEE-D7FA-4C2E-A860-726C8A3B08D4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7B143CEE-D7FA-4C2E-A860-726C8A3B08D4}.Release|Any CPU.Build.0 = Release|Any CPU
-		{4AE58766-527B-46C9-90A1-1B1281987455}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{4AE58766-527B-46C9-90A1-1B1281987455}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{4AE58766-527B-46C9-90A1-1B1281987455}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{4AE58766-527B-46C9-90A1-1B1281987455}.Release|Any CPU.Build.0 = Release|Any CPU
-		{405282D5-AC93-4C1A-9355-586F7E0A806A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{405282D5-AC93-4C1A-9355-586F7E0A806A}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{405282D5-AC93-4C1A-9355-586F7E0A806A}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{405282D5-AC93-4C1A-9355-586F7E0A806A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
